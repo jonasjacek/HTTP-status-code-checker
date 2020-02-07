@@ -1,0 +1,14 @@
+# GENERAL 
+# files types
+*.*~
+*.bak
+*.gho
+*.log
+*.ori
+*.swp
+*.swo
+*.tmp
+
+# SPECIFIC
+# exclude
+.meta/
